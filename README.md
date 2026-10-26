@@ -1,2 +1,2 @@
-# script-note
-.md file note
+# scripts-notes
+.md file notes
